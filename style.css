@@ -1,0 +1,19 @@
+h3{
+    border-bottom: 1px solid #333;
+    padding: 10px;
+    background: #dbeff5;
+    text-align: center;
+}
+
+p{
+    line-height: 1.5;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+ol{
+    list-style-type: none;
+  }
